@@ -11,7 +11,7 @@ Developed the core CNN architecture in the Jupyter Notebook.
 ## Member 3: [Nur Najwa binti Ahmad Shahudin]
 Developed the demo script to load the trained model for real-time testing.
 
-## Member 4: []
+## Member 4: [Filzah Syazalyana binti Mohd Supian]
 Managed the dataset and preprocessing steps.
 
 ## Member 5: [Siti Nurjihan binti Johari]
